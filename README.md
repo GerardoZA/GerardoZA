@@ -7,7 +7,9 @@ I also build [ChIP_Reporting](https://github.com/GerardoZA/ChIP_Reporting) (HTML
  
 * 🧬 **NGS:** RNA-seq, ChIP-seq, ATAC-seq, cancer WGS/WTS ([oncoanalyser](https://github.com/nf-core/oncoanalyser) → [cBioPortal](https://www.cbioportal.org/))
 * 💻 **Languages:** Python (pipelines, Shiny apps), R / R Markdown (reports), Bash (SLURM scripts)
-* ⚙️ **Workflow managers:** [GenPipes](https://github.com/c3g/GenPipes), [Nextflow](https://nextflow.io/) (nf-core), SLURM, Apptainer / Docker
+* ⚙️ **Workflow managers:** [GenPipes](https://github.com/c3g/GenPipes), [Nextflow](https://nextflow.io/) (nf-core)
+
+
 You can find me on:
  
 * [ORCiD](https://orcid.org/0000-0002-3721-0488) / [LinkedIn](https://www.linkedin.com/in/gerardo-zapata-b0991b134)
