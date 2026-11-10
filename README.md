@@ -1,8 +1,3 @@
-Claude
-Calanthe, Connected
-
-Create for me a file like this one:
-
 Hi! I'm [@ewels](https://github.com/ewels) (Phil Ewels) 👋
 I'm a bioinformatician from the UK 🇬🇧 living in Sweden 🇸🇪
 I've worked in a range of different positions, I'm currently product manager for open-source software at [Seqera](https://github.com/seqeralabs/).
