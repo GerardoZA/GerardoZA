@@ -1,4 +1,5 @@
 Hi! I'm [@GerardoZA](https://github.com/GerardoZA) (Gerardo Zapata)
+
 I'm a bioinformatician at the [Canadian Centre for Computational Genomics (C3G)](https://computationalgenomics.ca/) in Montréal, Canada 🇨🇦
 
 I build and run NGS pipelines on the [Digital Research Alliance of Canada](https://alliancecan.ca/) HPC clusters. Most of that work goes into [GenPipes](https://github.com/c3g/GenPipes), where I've added deepTools coverage tracks, SortMeRNA and RNA-SeQC2 to the RNA-seq pipeline and deepTools QC to the ChIP-seq pipeline. 
